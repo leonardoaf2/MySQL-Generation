@@ -26,7 +26,7 @@ FOREIGN KEY (classe_id) REFERENCES tb_classe (id)
 );
 
 insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("XxKilxX", 3000, 2750, "Surrenders", 1);
-insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("Fitipald", 1200, 1600, "Clube do Bolinha", 5);
+insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("Fitipal", 1200, 1600, "Clube do Bolinha", 5);
 insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("OtaldoXX", 900, 1780, "Surrenders", 3);
 insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("Willdousmith", 1200, 2700, "BeyHive", 2);
 insert into tb_personagem (nome, defesa, ataque, guilda, classe_id) values ("Vagner_games", 1800, 1150, "BeyHive", 4);
